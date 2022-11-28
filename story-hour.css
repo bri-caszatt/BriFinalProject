@@ -1,5 +1,5 @@
 body {
-    background-color: #74A856;
+    background-color: #9FD0E1;
    }
 
    .container:before {
@@ -11,7 +11,7 @@ body {
     width: 100%;
     height: 100%;
     opacity: 0.25;
-    background-image: url('green-wallpaper.jpeg');
+    background-image: url('blue-wallpaper.jpeg');
     background-repeat: no-repeat;
     background-position: 50% 0;
     background-size: cover;
