@@ -22,3 +22,27 @@ body {
     font-size: large;
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
+
+  #forward {
+    background-color: gray;
+    color: white;
+    font-size: 20px;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    position: relative;
+    z-index: 1;
+  }
+
+  #reverse {
+    background-color: gray;
+    color: white;
+    font-size: 20px;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    position: relative;
+    z-index: 1;
+  }
