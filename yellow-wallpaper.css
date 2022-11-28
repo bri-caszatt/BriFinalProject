@@ -1,0 +1,52 @@
+body {
+    background-color: #FEEBC3;
+   }
+
+   .container:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.25;
+    background-image: url('yellow-wallpaper.jpeg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    background-size: cover;
+  }
+
+  .container {
+    position: relative;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  #forward {
+    background-color: gray;
+    color: white;
+    font-size: 20px;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    position: relative;
+    z-index: 1;
+  }
+
+  #reverse {
+    background-color: gray;
+    color: white;
+    font-size: 20px;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    position: relative;
+    z-index: 1;
+  }
+
+  #story {
+    padding: 35px;
+  }
