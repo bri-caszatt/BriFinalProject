@@ -5,6 +5,7 @@
     "tag": "quote",
     "tag": "color",
     "tag": "decor",
+    "tag": "night",
     "tag": "inside"}
 ],
 [
@@ -76,6 +77,7 @@
     "tag": "sense",
     "tag": "color",
     "tag": "decor",
+    "tag": "night",
     "tag": "outside"}
 ],
 [
@@ -91,6 +93,7 @@
     {"text": "Already the event, the box-social gleamed in the distance like a lantern at the end of a dark stable.",
     "tag": "decor",
     "tag": "color",
+    "tag": "night",
     "tag": "outside"}
 ],
 [
@@ -98,16 +101,19 @@
     "tag": "decor",
     "tag": "color",
     "tag": "man",
+    "tag": "night",
     "tag": "outside"}
 ],
 [
     {"text": "Why you're better.",
     "tag": "quote",
+    "tag": "night",
     "tag": "health"}
 ],
 [
     {"text": "Yes. I am.",
     "tag": "quote",
+    "tag": "night",
     "tag": "health"}
 ],
 [
@@ -116,6 +122,7 @@
     "tag": "color",
     "tag": "decor",
     "tag": "time",
+    "tag": "night",
     "tag": "inside"}
 ],
 [
@@ -124,12 +131,14 @@
     "tag": "color",
     "tag": "decor",
     "tag": "time",
+    "tag": "night",
     "tag": "inside"}
 ],
 [
     {"text": "I pass, paleface; joker.",
     "tag": "characteristic",
     "tag": "color",
+    "tag": "night",
     "tag": "inside"}
 ],
 [
@@ -137,6 +146,7 @@
     "tag": "time",
     "tag": "man",
     "tag": "decor",
+    "tag": "night",
     "tag": "inside"}
 ],
 [
@@ -145,17 +155,20 @@
     "tag": "color",
     "tag": "man",
     "tag": "characteristic",
+    "tag": "night",
     "tag": "inside"}
 ],
 [
     {"text": "All the men crowded up.",
     "tag": "man",
+    "tag": "night",
     "tag": "inside"}
 ],
 [
     {"text": "Hers was almost the last and he was bidding for it. Five dollars; it had looked so nice. He came straight to her.",
     "tag": "man",
     "tag": "decor",
+    "tag": "night",
     "tag": "inside"}
 ],
 [
@@ -164,6 +177,7 @@
     "tag": "man",
     "tag": "decor",
     "tag": "emotion",
+    "tag": "night",
     "tag": "inside"}
 ],
 [
@@ -174,6 +188,7 @@
     "tag": "time",
     "tag": "sound",
     "tag": "sense",
+    "tag": "night",
     "tag": "inside"}
 ],
 [
@@ -182,6 +197,7 @@
     "tag": "decor",
     "tag": "characteristic",
     "tag": "color",
+    "tag": "night",
     "tag": "inside"}
 ],
 [
@@ -191,12 +207,14 @@
     "tag": "baby",
     "tag": "characteristic",
     "tag": "health",
+    "tag": "night",
     "tag": "inside"}
 ],
 [
     {"text": "\"I hated you so much,\" she said softly.",
     "tag": "quote",
     "tag": "emotion",
+    "tag": "night",
     "tag": "inside"}
 ]]
 }
