@@ -1,0 +1,18 @@
+body {
+    background-image: url("damask-design.png");
+    background-repeat: repeat;
+    background-color: ivory;
+    font-family: 'Inter', sans-serif;
+   }
+
+.yw {
+    background-color: #FEEBC3;
+}
+
+.bs {
+    background-color: #74A856;
+}
+
+.sh {
+    background-color: #9FD0E1;
+}
