@@ -12,6 +12,8 @@
     "tag": "man",
     "tag": "emotion",
     "tag": "day",
+    "tag": "time",
+    "tag": "characteristic",
     "tag": "inside"}
 ],
 [
@@ -35,6 +37,7 @@
 ],
 [
     {"text": "She could see in the open square before her house the tops of trees that were all aquiver with the new spring life. The delicious breath of rain was in the air. In the street below a peddler was crying his wares. The notes of a distant song which some one was singing reached her faintly, and countless sparrows were twittering in the eaves.",
+    "tag": "sight",
     "tag": "outside",
     "tag": "inside",
     "tag": "window",
@@ -48,6 +51,8 @@
     {"text": "There were patches of blue sky showing here and there through the clouds that had met and piled one above the other in the west facing her window.",
     "tag": "color",
     "tag": "day",
+    "tag": "sight",
+    "tag": "sense",
     "tag": "window",
     "tag": "threshold",
     "tag": "outside",
@@ -65,6 +70,8 @@
     {"text": "She was young, with a fair, calm face, whose lines bespoke repression and even a certain strength. But now there was a dull stare in her eyes, whose gaze was fixed away off yonder on one of those patches of blue sky. It was not a glance of reflection, but rather indicated a suspension of intelligent thought.",
     "tag": "characteristic",
     "tag": "color",
+    "tag": "sight",
+    "tag": "sense",
     "tag": "window",
     "tag": "threshold",
     "tag": "outside",
@@ -75,6 +82,7 @@
     {"text": "There was something coming to her and she was waiting for it, fearfully. What was it? She did not know; it was too subtle and elusive to name. But she felt it, creeping out of the sky, reaching toward her through the sounds, the scents, the color that filled the air.",
     "tag": "time",
     "tag": "emotion",
+    "tag": "touch",
     "tag": "sound",
     "tag": "smell",
     "tag": "sense",
@@ -96,6 +104,9 @@
     "tag": "quote",
     "tag": "emotion",
     "tag": "characteristic",
+    "tag": "sight",
+    "tag": "sense",
+    "tag": "color",
     "tag": "health",
     "tag": "day",
     "tag": "inside"}
@@ -113,6 +124,8 @@
     "tag": "characteristic",
     "tag": "man",
     "tag": "color",
+    "tag": "sight",
+    "tag": "sense",
     "tag": "day",
     "tag": "inside"}
 ],
@@ -121,6 +134,8 @@
     "tag": "man",
     "tag": "emotion",
     "tag": "time",
+    "tag": "sight",
+    "tag": "sense",
     "tag": "day",
     "tag": "inside"}
 ],
@@ -163,6 +178,7 @@
 ],
 [
     {"text": "Her fancy was running riot along those days ahead of her. Spring days, and summer days, and all sorts of days that would be her own. She breathed a quick prayer that life might be long. It was only yesterday she had thought with a shudder that life might be long.",
+    "tag": "characteristic",
     "tag": "time",
     "tag": "day",
     "tag": "inside"}
@@ -182,6 +198,7 @@
     "tag": "threshold",
     "tag": "man",
     "tag": "characteristic",
+    "tag": "color",
     "tag": "decor",
     "tag": "outside",
     "tag": "day",
@@ -191,6 +208,7 @@
     {"text": "He stood amazed at Josephine's piercing cry; at Richards' quick motion to screen him from the view of his wife.",
     "tag": "man",
     "tag": "sound",
+    "tag": "sight",
     "tag": "sense",
     "tag": "day",
     "tag": "inside"}

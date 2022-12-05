@@ -2,7 +2,7 @@ Paragraph Tag Descriptions
 
 health: encompassing descriptions of both mental and physical health
 
-charateristic: text describing any physical traits of a character, either permanent or temporary
+charateristic: text describing any physical or personality traits of a character, either permanent or temporary
 
 emotion: text describing the emotions of a character
 
@@ -14,7 +14,9 @@ taste: text describing a character tasting something, real or imagined
 
 smell: text describing a character smelling something, real or imagined
 
-sense: text describing a character experiencing sound, touch, taste, or smell, real or imagined
+sight: text describing a character seeing something, real or imagined
+
+sense: text describing a character experiencing sound, touch, taste, smell, or sight, real or imagined
 
 labor: text describing characters performing a task, chore, work, or other type of labor, domestic or otherwise
 
@@ -35,6 +37,8 @@ time: text describing a specific time of day or a device that tells time, or a s
 day: text that clearly indicates a scene is happening during the day, or in which time of day is clear from context
 
 night: text that clearly indicates a scene is happening during the night, or in which time of day is clear from context
+
+light: descriptions of objects that provide light (e.g., lamps, candles) or the type of light depending on the time of day
 
 inside: text that describes actions happening indoors, either at home or within another type of building, or in which location is clear from context
 

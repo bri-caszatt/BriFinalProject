@@ -26,7 +26,7 @@
     "tag": "inside",
     "tag": "labor",
     "tag": "decor",
-    "tag": "men"}
+    "tag": "man"}
 ],
 [
     {"text": "All she needed now was some gold paint, but of course Aunt had gone to bed hours ago.",
@@ -41,6 +41,8 @@
     "tag": "decor",
     "tag": "inside",
     "tag": "color",
+    "tag": "sight",
+    "tag": "sense",
     "tag": "night"}
 ],
 [
@@ -54,6 +56,8 @@
     {"text": "Her fingers were white from the paste she had been using. The candle in her hand sprouted a yellow willow leaf. She was in the outhouse searching in the tiny attic for a roll of gorgeous parlour wallpaper she remembered her aunt having left there. Her father always forgot to put down the lids; the two holes stared at her like a man with a large eye and a small one. Finding what she wanted, she stepped out and stood still for a moment. The rain slopped the candle out.",
     "tag": "color",
     "tag": "characteristic",
+    "tag": "labor",
+    "tag": "light",
     "tag": "decor",
     "tag": "outside",
     "tag": "inside",
@@ -68,6 +72,7 @@
     "tag": "time",
     "tag": "night",
     "tag": "color",
+    "tag": "light",
     "tag": "outside"}
 ],
 [
@@ -88,11 +93,13 @@
     "tag": "window",
     "tag": "threshold",
     "tag": "decor",
+    "tag": "light",
     "tag": "night"}
 ],[
     {"text": "Already the event, the box-social gleamed in the distance like a lantern at the end of a dark stable.",
     "tag": "decor",
     "tag": "color",
+    "tag": "light",
     "tag": "night",
     "tag": "outside"}
 ],
@@ -168,6 +175,8 @@
     {"text": "Hers was almost the last and he was bidding for it. Five dollars; it had looked so nice. He came straight to her.",
     "tag": "man",
     "tag": "decor",
+    "tag": "sight",
+    "tag": "sense",
     "tag": "night",
     "tag": "inside"}
 ],
@@ -177,6 +186,7 @@
     "tag": "man",
     "tag": "decor",
     "tag": "emotion",
+    "tag": "time",
     "tag": "night",
     "tag": "inside"}
 ],
@@ -184,6 +194,8 @@
     {"text": "He sat down quite comfortably and began untying the black ribbons. The school clock that they had both looked at together to see if it were recess time ticked loudly above them.",
     "tag": "man",
     "tag": "color",
+    "tag": "sight",
+    "tag": "sense",
     "tag": "decor",
     "tag": "time",
     "tag": "sound",
@@ -214,6 +226,7 @@
     {"text": "\"I hated you so much,\" she said softly.",
     "tag": "quote",
     "tag": "emotion",
+    "tag": "time",
     "tag": "night",
     "tag": "inside"}
 ]]
