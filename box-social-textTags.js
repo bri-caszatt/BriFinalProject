@@ -1,4 +1,4 @@
-const boxSocial = [ //reformatted to match the student grade exercize in chapter 5
+const boxSocial = [
 
     {text: "\"Do you know where I put my gold paint, Auntie?\"",
     tags: ["quote", "color", "decor", "night", "inside"]},
@@ -158,5 +158,3 @@ function filterQuote(boxSocial) {
 filterQuote(boxSocial); // run the function
 storyQuote = storyQuote + "</p>"; //close the html tag
 $("#quote").html(storyQuote); //add it to the "quote" div
-
-
