@@ -3,8 +3,9 @@ $.getJSON("box-social.json", function(data){ // data variable is the JSON object
     let storyText; // Define a new variable to hold all text
     storyText = "<p>"; // Open the starting tags
     // Now you can iterate (map) over the data variable’s .paragraphs property:
-    data.paragraphs.filter(tags => tags.tag.indexOf("baby") > -1).map(function(paragraph){ // We get a variable, paragraph; iterating forward
+    data.paragraphs.map(function(paragraph){ // We get a variable, paragraph; iterating forward
       // Define a blank paraText.
+      console.log(typeof(data.paragraphs)); //data.paragraphs is an object
       let paraText = "";
       // Now iterate over each paragraph.
         paragraph.map(function(paragraph){
